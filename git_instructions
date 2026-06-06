@@ -9,3 +9,4 @@ Clone a repo: git clone 'repo link'
 Status of a repo: git status
 Typo Fix: git commit -am 'fixed typo'
 Update your local repo with files from cloud repo: git pull
+Test 1_add
